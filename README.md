@@ -3,7 +3,7 @@
 
 ### Welcome 👋
 
-My names Isaac, I'm currently focused on development for Web & Desktop applications but you can find all of my past and recent work here!
+My names Isaac, I'm currently focused on development for Web & Desktop applications but you can find all of my recent and past work here!
 This readme is currently a work in progress :o
 
 | 💻[Portfolio](https://irrperks.dev) |
@@ -13,8 +13,8 @@ This readme is currently a work in progress :o
  📓[Certifications-Progress](https://www.freecodecamp.org/isaac_perks) |
    
   
-🔭 I’m currently working on ... SIC-1 Assembly, developing skyrim mods, and data science/analysis  
-🌱 I’m currently learning ... Papyrus, Reverse Engineering, and Neural Networks  
+🔭 I’m currently working on ... SIC-1 Assembly, developing skyrim mods, writing a basic programming language, and data science/analysis  
+🌱 I’m currently learning ... SKSE, Reverse Engineering, and Neural Networks  
 📫 How to reach me: ... irrperks@gmail.com  
 😄 Pronouns: ... He/Him  
 
