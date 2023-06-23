@@ -22,7 +22,7 @@ This readme is currently a work in progress :o
 <br/>📫 How to reach me: <br/> 
 `irrperks@gmail.com` 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najir&layout=compact&hide=c,html,css,nix&size_weight=0.25&count_weight=1&card_width=675&bg_color=4E564E&title_color=F7EBEC&text_color=F7EBEC&border_color=F7EBEC)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najir&layout=compact&hide=c,html,css,nix&size_weight=0.15&count_weight=1&card_width=675&bg_color=4E564E&title_color=F7EBEC&text_color=F7EBEC&border_color=F7EBEC)
 
 <hr />
 
